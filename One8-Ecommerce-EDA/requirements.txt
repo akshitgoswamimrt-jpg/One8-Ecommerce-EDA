@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+lxml

@@ -1,0 +1,51 @@
+One8 Sports E-Commerce Data Analysis Workflow
+
+1. Website Selection
+   ↓
+   Selected the One8 Sports e-commerce website for product data collection.
+
+2. Web Scraping
+   ↓
+   Extracted product information using Python, Requests, and BeautifulSoup.
+
+3. Data Collection
+   ↓
+   Collected:
+   - Product Name
+   - Category
+   - Price
+   - Brand
+   - Product URL
+
+4. Data Cleaning
+   ↓
+   - Removed duplicate records
+   - Handled missing values
+   - Standardized column names
+   - Converted prices to numeric format
+
+5. Exploratory Data Analysis (EDA)
+   ↓
+   - Category Distribution
+   - Price Distribution
+   - Average Price Analysis
+   - Product Count Analysis
+
+6. Data Visualization
+   ↓
+   Created charts using Matplotlib and Seaborn.
+
+7. Business Insights
+   ↓
+   - Identified most popular categories
+   - Compared average prices across categories
+   - Analyzed pricing trends
+   - Suggested business improvements
+
+8. Final Deliverables
+   ↓
+   - Jupyter Notebook
+   - CSV Files
+   - Visualizations
+   - GitHub Repository
+   - Project Presentation
