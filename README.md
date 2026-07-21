@@ -76,7 +76,7 @@ One8-Ecommerce-EDA
 
 **Akshit Goswami**
 
-- 🎓 BS in Data Science & Applications, IIT Madras
+- 🎓 BS in Data Science & Artificial Intelligence, IIT Madras
 - 📍 India
 - 💻 Interested in Data Science, Artificial Intelligence & Machine Learning
 - 🌐 GitHub: https://github.com/akshitgoswamimrt-jpg
