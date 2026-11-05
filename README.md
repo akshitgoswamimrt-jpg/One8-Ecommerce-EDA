@@ -30,28 +30,34 @@ The project demonstrates a complete analytical workflow, from web-scraped data c
 * Web Scraping
 * Exploratory Data Analysis (EDA)
 
-## 📂 Repository Structure
+## 📂 Project Structure
 
 ```text
 One8-Ecommerce-EDA/
 │
-├── data/
-│   └── one8_sports_final_cleaned.csv
+├── One8-Ecommerce-EDA/
+│   ├── data/
+│   │   └── one8_sports_final_cleaned.csv
+│   │
+│   ├── images/
+│   │
+│   ├── notebooks/
+│   │   ├── One8_Sports_Analytics_2026.ipynb
+│   │   └── One8_Ecommerce_EDA_Legacy.ipynb
+│   │
+│   ├── sql/
+│   │   ├── One8_Sports_Analytics.sql
+│   │   ├── SQL_Portfolio_Queries.sql
+│   │   └── README.md
+│   │
+│   ├── README.md
+│   └── requirements.txt
 │
-├── images/
-│   └── project_visualizations/
-│
-├── notebooks/
-│   └── One8_Sports_Analytics_2026.ipynb
-│
-├── sql/
-│   ├── One8_Sports_Analytics.sql
-│   ├── SQL_Portfolio_Queries.sql
-│   └── README.md
-│
-├── requirements.txt
+├── .gitignore
+├── LICENSE
 └── README.md
 ```
+
 
 ## 📊 Dataset Overview
 
